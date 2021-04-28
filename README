@@ -4,13 +4,11 @@ Diet unmasks genetic variants that regulate lifespan in outbred Drosophila
 L Pallares*, AJ Lea*, et al.
 https://www.biorxiv.org/content/10.1101/2020.10.19.346312v2
 
-Specifically, the analyses that are replicated here are:
+Specifically, the analyses that are described here are:
 
 1) Using a beta binomial model to test for allele frequency differences between t0 and tN in each environment
 2) Estimating the allele frequency change between t0 and tN from model coefficents
 3) Simulating data to be analyzed using a beta binomial vs CMH approach
 4) Testing to see if lifespan associated SNPs followed particular trajectories hypothesized by different theories of aging
-
-Note that the paths included in the code will not replicate on your computer and will need to be changed. Also, in some cases code is provided for the generation of upstream files that are not posted here. This is meant to simply illustrate how the downstream files were generated. 
 
 Additional code can be found at: https://github.com/Lufpa/Longevity
