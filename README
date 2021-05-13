@@ -12,3 +12,5 @@ Specifically, the analyses that are described here are:
 4) Testing to see if lifespan associated SNPs followed particular trajectories hypothesized by different theories of aging
 
 Additional code can be found at: https://github.com/Lufpa/Longevity
+
+Data files pointed to in these scripts will be available on Dryad following publication: doi:10.5061/dryad.hhmgqnkgr. Note that the specific paths in the scripts will not work on your computer and you will need to change them accordingly.
