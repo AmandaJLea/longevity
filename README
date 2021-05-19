@@ -11,6 +11,7 @@ Specifically, the analyses that are described here are:
 3) Estimating the allele frequency change between t0 and tN from model coefficents
 4) Simulating data to be analyzed using a beta binomial vs CMH approach
 5) Testing to see if lifespan associated SNPs followed particular trajectories hypothesized by different theories of aging
+6) Testing whether lifespan decreasing alleles are more likely to be derived vs ancestral, relative to frequency matched sites
 
 Additional code can be found at: https://github.com/Lufpa/Longevity
 
