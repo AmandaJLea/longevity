@@ -7,9 +7,10 @@ https://www.biorxiv.org/content/10.1101/2020.10.19.346312v2
 Specifically, the analyses that are described here are:
 
 1) Using a beta binomial model to test for allele frequency differences between t0 and tN in each environment
-2) Estimating the allele frequency change between t0 and tN from model coefficents
-3) Simulating data to be analyzed using a beta binomial vs CMH approach
-4) Testing to see if lifespan associated SNPs followed particular trajectories hypothesized by different theories of aging
+2) Permutations of the factor of interest (t0, tN_HS, tN_CTRL) in the beta binomial model
+3) Estimating the allele frequency change between t0 and tN from model coefficents
+4) Simulating data to be analyzed using a beta binomial vs CMH approach
+5) Testing to see if lifespan associated SNPs followed particular trajectories hypothesized by different theories of aging
 
 Additional code can be found at: https://github.com/Lufpa/Longevity
 
