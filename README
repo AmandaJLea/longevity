@@ -5,6 +5,7 @@ L Pallares*, AJ Lea*, et al.
 https://www.biorxiv.org/content/10.1101/2020.10.19.346312v2
 
 Specifically, the processing steps that are described here are:
+
 1) Trimming, mapping, and genotyping each sequence data derived from each sample
 2) Joint genotyping all samples together (by chromosome)
 3) Extracting counts of the number of reads that mapped to the reference and alternate allele for each sample
